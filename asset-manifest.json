@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/ankita-portfolio/static/css/main.c0466f78.css",
+    "main.js": "/ankita-portfolio/static/js/main.22836828.js",
+    "static/media/ankita(cv).pdf": "/ankita-portfolio/static/media/ankita(cv).dd421a0014f29a2911de.pdf",
+    "static/media/ankita.png": "/ankita-portfolio/static/media/ankita.739c4ba400046e081fc2.png",
+    "static/media/power-BI.png": "/ankita-portfolio/static/media/power-BI.db82394addf0053ce44a.png",
+    "static/media/images.jpeg": "/ankita-portfolio/static/media/images.ccba7f612fc70262e0ae.jpeg",
+    "static/media/me-about.jpeg": "/ankita-portfolio/static/media/me-about.7dd0794332478789e35e.jpeg",
+    "static/media/download.jpeg": "/ankita-portfolio/static/media/download.f9073dfec9534c7c68ee.jpeg",
+    "static/media/file.jpeg": "/ankita-portfolio/static/media/file.e67348e530e19f683fdb.jpeg",
+    "index.html": "/ankita-portfolio/index.html",
+    "main.c0466f78.css.map": "/ankita-portfolio/static/css/main.c0466f78.css.map",
+    "main.22836828.js.map": "/ankita-portfolio/static/js/main.22836828.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c0466f78.css",
+    "static/js/main.22836828.js"
+  ]
+}
