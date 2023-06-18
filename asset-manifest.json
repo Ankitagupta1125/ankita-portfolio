@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ankita-portfolio/static/css/main.c0466f78.css",
-    "main.js": "/ankita-portfolio/static/js/main.22836828.js",
+    "main.js": "/ankita-portfolio/static/js/main.0d93b30b.js",
     "static/media/ankita(cv).pdf": "/ankita-portfolio/static/media/ankita(cv).dd421a0014f29a2911de.pdf",
     "static/media/ankita.png": "/ankita-portfolio/static/media/ankita.739c4ba400046e081fc2.png",
     "static/media/power-BI.png": "/ankita-portfolio/static/media/power-BI.db82394addf0053ce44a.png",
@@ -11,10 +11,10 @@
     "static/media/file.jpeg": "/ankita-portfolio/static/media/file.e67348e530e19f683fdb.jpeg",
     "index.html": "/ankita-portfolio/index.html",
     "main.c0466f78.css.map": "/ankita-portfolio/static/css/main.c0466f78.css.map",
-    "main.22836828.js.map": "/ankita-portfolio/static/js/main.22836828.js.map"
+    "main.0d93b30b.js.map": "/ankita-portfolio/static/js/main.0d93b30b.js.map"
   },
   "entrypoints": [
     "static/css/main.c0466f78.css",
-    "static/js/main.22836828.js"
+    "static/js/main.0d93b30b.js"
   ]
 }
